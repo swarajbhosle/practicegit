@@ -1,0 +1,7 @@
+i have added this file
+
+
+git init
+git add -A
+git commit -m "made some changes"
+git remote add 
