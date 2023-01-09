@@ -1,3 +1,5 @@
 this is my first file as a git user.
 i am making changes in file
 it is working fine
+
+feature3 has been added to this file
